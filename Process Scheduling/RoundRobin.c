@@ -4,7 +4,7 @@ void main()
     int n,qt,t,totalTime=0,c=0,po=0;
     scanf("%d",&n);
     scanf("%d",&qt);
-    int at[n],bt[n],wt[n],cbt[n],p[n];
+    int at[20],bt[20],wt[20],cbt[20],p[20];
     for(int i=0;i<n;i++)
     {
         scanf("%d",&at[i]);
