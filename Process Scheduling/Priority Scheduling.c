@@ -22,7 +22,7 @@ int main()
                     index=i;
                 }
                  if(priority[i]==max)
-                {
+                { 
                     if(arrival[i]<arrival[index])
                     {
                         max=priority[i];
